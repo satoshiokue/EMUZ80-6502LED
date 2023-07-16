@@ -62,7 +62,7 @@ Enhanced 6502 BASIC by Lee Davison
 https://philpem.me.uk/leeedavison/6502/ehbasic/
 
 ## 6502プログラムの改編
-バイナリデータをテキストデータ化してファームウェアの配列rom[]に格納するとZ80で実行できます。
+バイナリデータをテキストデータ化してファームウェアの配列rom[]に格納すると6502で実行できます。
 
 テキスト変換例
 ```
